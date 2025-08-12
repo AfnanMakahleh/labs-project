@@ -1,1 +1,2 @@
 Hi that my second file in the github.
+GitHub is a  platform for version control and also an excellent platform for documentation, writing, and formatting content using Markdown.
